@@ -1,4 +1,6 @@
-package com.dls.structural.decorator;
+package com.dls.structural.decorator.decorator;
+
+import com.dls.structural.decorator.product.Car;
 
 public class LuxuryCar extends CarDecorator {
 

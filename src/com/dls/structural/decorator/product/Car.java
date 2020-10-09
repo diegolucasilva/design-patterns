@@ -1,4 +1,4 @@
-package com.dls.structural.decorator;
+package com.dls.structural.decorator.product;
 
 public interface Car {
     public void assemble();

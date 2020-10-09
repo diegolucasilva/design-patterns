@@ -1,0 +1,9 @@
+In Software Engineering, Structural Design Patterns are Design Patterns that ease the design by
+identifying a simple way to realize relationships between entities.
+
+Structural patterns explain how to assemble objects and classes into larger structures
+while keeping these structures flexible and efficient.
+
+A structural design pattern serves as a blueprint for how different classes and objects are combined to form larger structures.
+Unlike creational patterns, which are mostly different ways to fulfill the same fundamental purpose,
+each structural pattern has a different purpose.
