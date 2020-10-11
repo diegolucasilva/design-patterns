@@ -33,7 +33,7 @@ reusing flyweight objects is buried inside a flyweight factory.
  */
 
 
-import com.dls.structural.flyweight.trees.forest.Forest;
+import com.dls.structural.flyweight.forest.Forest;
 
 import java.awt.*;
 

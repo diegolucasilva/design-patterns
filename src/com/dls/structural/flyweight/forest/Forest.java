@@ -1,4 +1,4 @@
-package com.dls.structural.flyweight.trees.forest;
+package com.dls.structural.flyweight.forest;
 
 
 import com.dls.structural.flyweight.trees.Tree;
