@@ -23,6 +23,12 @@ There’s another significant difference: Decorator adds additional responsibili
 while Composite just “sums up” its children’s results.
 ******
 
+EX:
+Block 1 ShareHolders
+    Block 2 Head department
+        SalesDepartment
+        FinancialDepartment
+            Block 3 Financial Manager ......
  */
 
 import com.dls.structural.composite.component.Department;
