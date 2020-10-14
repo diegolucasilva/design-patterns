@@ -15,3 +15,41 @@ In a word, we can say this: If Creational is about instantiation, and Structural
 then Behavioral is the pattern of the relationship among objects.
 
 
+
+
+
+
+
+###################
+Chain of Reponsability ***
+Lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either
+to process the request or to pass it to the next handler in the chain
+
+Command ***
+The pattern intends to encapsulate in an object all the data required for performing a given action (command),
+including what method to call, the method's arguments, and the object to which the method belongs.
+This model allows us to decouple objects that produce the commands from their consumers,
+so that's why the pattern is commonly known as the producer-consumer pattern.
+
+Mediator *
+Mediator design pattern is very helpful in an enterprise application where multiple objects are
+interacting with each other. If the objects interact with each other directly, the system components
+are tightly-coupled with each other that makes higher maintainability cost and not hard to extend.
+Mediator pattern focuses on provide a mediator between objects for communication and help in
+implementing lose-coupling between objects.
+
+Memento
+Without violating encapsulation, capture and externalize an object's internal state so
+that the object can be returned to this state later.
+Need to restore an object back to its previous state (e.g. "undo" or "rollback" operations).
+
+Iterator
+Iterator is a behavioral design pattern that allows sequential traversal through a complex data structure
+without exposing its internal details.
+
+
+
+
+
+
+
