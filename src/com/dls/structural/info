@@ -10,11 +10,16 @@ Unlike creational patterns, which are mostly different ways to fulfill the same 
 each structural pattern has a different purpose.
 
 
-****
-Adapter
+#################################################################################################################
+
+Facade ***
+is a structural design pattern that provides a simplified interface to a library, a framework,
+or any other complex set of classes.
+
+Adapter **
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate
 
-Bridge
+Bridge **
 Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two
 separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
@@ -27,7 +32,7 @@ It is a structural design pattern that lets you attach new behaviors to objects 
 these objects inside special wrapper objects that contain the behaviors.
 Add responsibilities to objects dynamically
 
-Flyweight
+Flyweight *
 can be recognized by a creation method that returns cached objects instead of creating new.
 You can implement shared leaf nodes of the Composite tree as Flyweights to save some RAM.
 
@@ -36,7 +41,4 @@ Proxy is a structural design pattern that lets you provide a substitute or place
 A proxy controls access to the original object, allowing you to perform something either before or after the
 request gets through to the original object.
 
-Facade
-is a structural design pattern that provides a simplified interface to a library, a framework,
-or any other complex set of classes.
 
