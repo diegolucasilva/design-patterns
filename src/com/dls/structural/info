@@ -23,11 +23,11 @@ Bridge **
 Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two
 separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
-Composite
+Composite **
 The composite pattern is meant to allow treating individual objects and compositions of objects,
 or “composites” in the same way.
 
-Decorator
+Decorator **
 It is a structural design pattern that lets you attach new behaviors to objects by placing
 these objects inside special wrapper objects that contain the behaviors.
 Add responsibilities to objects dynamically
@@ -36,9 +36,7 @@ Flyweight *
 can be recognized by a creation method that returns cached objects instead of creating new.
 You can implement shared leaf nodes of the Composite tree as Flyweights to save some RAM.
 
-Proxy
+Proxy *
 Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object.
 A proxy controls access to the original object, allowing you to perform something either before or after the
 request gets through to the original object.
-
-
